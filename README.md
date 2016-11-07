@@ -43,6 +43,18 @@ TODO: Write history
 
 Quick and dirty for a resume site by John Marczak<johnnyboyct@hotmail.com>
 
+
+## Resources
+
+- [Do Less & Be Lazy: Practical Performance Patterns for Polymer (Polymer Summit 2016)](https://youtu.be/hHC9EOJzrQk?t=16m10s)
+- [polyperf](https://github.com/PolymerLabs/polyperf)
+- [ratings-element](https://github.com/PolymerLabs/polyperf/tree/ratings-element/elements/ratings-element)
+
 ## License
 
-https://github.com/StartPolymer/license
+MIT: [StartPolymer/license](https://github.com/StartPolymer/license)
+
+
+[webcomponents-image]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
+[webcomponents-url]: https://beta.webcomponents.org/element/StartPolymer/s-rating
+[webcomponents-demo]: https://beta.webcomponents.org/element/StartPolymer/s-rating/demo/demo/index.html
