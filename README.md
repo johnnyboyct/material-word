@@ -43,7 +43,7 @@ TODO: Write history
 
 ## Credits
 
-Quick and dirty for a resume site by John Marczak<johnnyboyct@hotmail.com>
+Quick and dirty for a resume site by John Marczak
 
 
 ## Resources
