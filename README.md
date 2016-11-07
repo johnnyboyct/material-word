@@ -1,7 +1,9 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/owner/my-element)
+
 # material-word
 Polymer element to display a word from a material design alphabet
 Polymer conversion of: https://codepen.io/grapestheme/pen/rVMXva
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/owner/my-element)
+
 
 ## Installation
 
@@ -15,7 +17,7 @@ bower i material-word -S
 
 <!--
 ```
-<custom-element-demo>
+<custom-element-demo height="600">
 <template>
 <link rel="import" href="material-word.html">
 <material-word word="Material"></material-word>
