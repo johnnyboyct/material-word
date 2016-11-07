@@ -48,9 +48,7 @@ Quick and dirty for a resume site by John Marczak<johnnyboyct@hotmail.com>
 
 ## Resources
 
-- [Do Less & Be Lazy: Practical Performance Patterns for Polymer (Polymer Summit 2016)](https://youtu.be/hHC9EOJzrQk?t=16m10s)
-- [polyperf](https://github.com/PolymerLabs/polyperf)
-- [ratings-element](https://github.com/PolymerLabs/polyperf/tree/ratings-element/elements/ratings-element)
+
 
 ## License
 
