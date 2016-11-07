@@ -2,6 +2,17 @@
   "name": "material-word",
   "description": "Outputs word in material alphabet",
   "main": "material-word.html",
+  "license": "MIT",
+  "authors": [
+    "John Marczak <johnnyboyct@hotmail.com>"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "material design",
+    "alphabet",
+    "word"
+  ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
   },
